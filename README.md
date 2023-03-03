@@ -1,5 +1,5 @@
 # Wine Quality Prediction
-
+#I am trying
  ## Business Understanding
 As a machine learning expert, I have been engaged by a prestigious wine producer to develop a predictive model that accurately determines the quality of newly produced wine bottles based on sensor readings collected during the production process. With an annual production of over 200,000 bottles of both red and white wine, it is imperative for the company to maintain its high reputation by identifying errors and ensuring consistent quality in its product.
 
