@@ -7,3 +7,5 @@ The company has provided a dataset that includes the average quality scores of o
 
 ## Sucess Criteria
 To meet the business objectives, it is imperative for the predictive model to deliver highly accurate results, with a maximum deviation of **0.5 points from the true quality score**. This is crucial for the company to accurately separate its finest quality wines for distribution to investors and subscription customers.
+
+<a href= "https://benedictdebrah.hashnode.dev/building-a-high-performing-model-as-a-data-scientist-project"> Project link <a>
